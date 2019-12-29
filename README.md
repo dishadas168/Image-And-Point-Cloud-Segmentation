@@ -5,7 +5,7 @@ Automatic image processing is a key component to many AI systems, including faci
 
 Or we could perform a clustering of point cloud in order to separate different objects, backgrounds etc, as shown in the image below
 
-![PC](/pcd_clustered.gif)
+![PC](/images/pcd_clustered.gif)
 
 In this project, we perform image compression and point cloud segmentation. To this end, we implement Gaussian mixture models and iteratively improve their performance. First perform segmentation on the "Bird" (bird_color_24.png) and at the end run your algorithm on 3D point cloud data.
 
