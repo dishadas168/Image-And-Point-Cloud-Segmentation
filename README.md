@@ -9,3 +9,12 @@ Or we could perform a clustering of point cloud in order to separate different o
 
 In this project, we perform image compression and point cloud segmentation. To this end, we implement Gaussian mixture models and iteratively improve their performance. First perform segmentation on the "Bird" (bird_color_24.png) and at the end run your algorithm on 3D point cloud data.
 
+# File Summary
+
+helper_functions.py: Helper functions for execution
+
+mixture_tests.py: Unit tests
+
+notebook2script.py: Converts notebook to python script
+
+solution.ipynb: Notebook with instructions and solutions
